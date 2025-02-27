@@ -1,0 +1,13 @@
+{
+  "name": "GitHub Pages Example",
+  "description": "This is a sample JSON file for GitHub Pages.",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "keywords": ["github", "pages", "json"],
+  "data": {
+    "users": [
+      { "id": 1, "name": "Alice" },
+      { "id": 2, "name": "Bob" }
+    ]
+  }
+}
